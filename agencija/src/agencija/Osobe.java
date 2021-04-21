@@ -26,7 +26,7 @@ public abstract class Osobe {
 	}
 	
 	
-	public Osobe() {}
+	public abstract void ispisiOsobe(int id, String ime, String prezime); 
 
 	
 	
